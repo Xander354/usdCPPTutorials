@@ -20,7 +20,7 @@ From there the build command should work fine and install everything you'll need
 <summary>Setting up the project</summary>
 No build scripts or anything nice right now, maybe later. For now this is just a VS2022 project (src->CPPUSDProj).
 
-If everything's setup correctly you should be able to open the project in VS2022 and change a few settings, then build. 
+If everything's setup correctly you should be able to open the project "CPPUSDProj" in VS2022 and change a few settings, then build. 
 The settings that need changing are include and library directories. Everything else <i>should</i> be setup. 
 - In Properties (Make sure the configuation is all versions and platform is `x64`)
   - C/C++
